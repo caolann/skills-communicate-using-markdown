@@ -6,3 +6,7 @@
 ``` javascript
 var myVar = "Hello, world!";
 ```
+
+- [ ] I am making a task list
+- [ ] That's cool!
+- [ ] I love it
